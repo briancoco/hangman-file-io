@@ -1,0 +1,10 @@
+---
+:wrong_guess: 2
+:right_guess:
+- e
+- "n"
+- i
+- l
+:secret: linked
+:guess: l
+:current_display: lin_e_
